@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lazy-test"
+    }
+  },
+  "defaultProject": "lazy-test",
+  "cli": {
+    "analytics": "b43dc011-202a-4aea-acf9-a26ccc3555ca"
+  }
 }
